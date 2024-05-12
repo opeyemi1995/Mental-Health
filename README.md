@@ -4,7 +4,7 @@ Install Python: Ensure Python is installed on your system. You can download and 
 
 Install Required Libraries: Install the necessary libraries using pip, Python's package installer. Open a terminal or command prompt and run the following commands:
 
- ```pip install pandas numpy matplotlib seaborn scikit-learn```
+ ```pip install pandas numpy matplotlib seaborn scikit-learn openpyxl```
 
 Run the code below:
 
